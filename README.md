@@ -10,6 +10,3 @@ I will attempt to show you some of my accomplishments.
 - Feature 3
 
 ---
-
-## 🛠️ Installation
-
