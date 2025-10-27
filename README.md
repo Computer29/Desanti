@@ -4,9 +4,5 @@ I will attempt to show you some of my accomplishments.
 
 ---
 
-## 🚀 Features
-- Feature 1
-- Feature 2
-- Feature 3
+## [Download my Resume!](Resume.pdf)
 
----
